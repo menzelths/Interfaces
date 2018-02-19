@@ -17,7 +17,6 @@ public class Interfaces {
     public static void main(String[] args) {
         // TODO code application logic here
         int a=5;
-        int b=4;
     }
     
 }
